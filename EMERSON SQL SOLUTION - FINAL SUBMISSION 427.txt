@@ -5,12 +5,11 @@
 Subject: Emerson SQL Coding Exercise 
 Date: 4/22/2020
 
-Solution coded by Kurt Summers, Job Applicant - Candidate for SQL Developer Engineer - Remote
+Solution coded by AKS
 Location: Atlanta, GA 
-Phone: 404.918.1719
-E-mail: kurtsummers@gmail.com
 
-Recruiter / Referral: Paul May
+
+Recruiter / Referral: Paul M.
 
 ....................................................................................................
 
